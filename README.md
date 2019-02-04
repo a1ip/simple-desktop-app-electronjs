@@ -1,43 +1,43 @@
-# Temperature Converter Desktop App
+# Настольное приложение конвертера температур
 
-This Code is part of a blog. Please refer to the blog to make the best use of this code.
-The link to the blog is [here](https://adityasridhar.com/posts/desktop-apps-with-html-css-javascript)
+Этот код является частью статьи. Пожалуйста, почитайте статью чтобы лучше понимать, что этот код делает. 
+Ссылка на блог [тут](https://medium.com/@ABatickaya/desktop-app-5b9f008966cd)
 
-## Pre-requisites
+## Предварительная подготовка
 
-### Install NodeJS
+### Установи NodeJS
 
-Install NodeJS from [https://nodejs.org/en/](https://nodejs.org/en/)
+Установи NodeJS по ссылке [https://nodejs.org/en/](https://nodejs.org/en/)
 
-### Install Electron Forge
+### Установи Electron Forge
 
-Install Electron forge using the following command
+Установи Electron Forge с помощью команды:
 
 ```bash
-npm install -g electron-forge
+  npm install -g electron-forge
 ```
 
-## Cloning the Code
+## Кланируй код
 
-Clone the Code using the following command
+Клонируй код с помощью команды:
 
 ```bash
 git clone https://github.com/aditya-sridhar/simple-desktop-app-electronjs.git
 ```
 
-## Running the application
+## Запускай приложение
 
-Go into the project folder and run the application using the following commands
+Иди в папку проекта и запускай приложение с помощью следующих команд:
 
 ```bash
 cd simple-desktop-app-electronjs
-npm install
+npm i
 npm start
 ```
 
-## Package the Application
+## Упакуй приложение
 
-The application can be packaged using the command 
+Приложение может быть упаковано так:
 
 ```bash
 npm run package
